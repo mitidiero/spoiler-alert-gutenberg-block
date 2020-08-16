@@ -1,0 +1,8 @@
+.wp-block-spoiler-alert-spoiler-alert {
+	.content {
+	  &.visible {
+		text-shadow: none;
+		color: inherit;
+	  }
+	}
+}

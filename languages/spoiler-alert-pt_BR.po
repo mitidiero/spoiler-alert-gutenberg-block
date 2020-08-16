@@ -1,0 +1,56 @@
+# Copyright (C) 2020 Luiz Mitidiero
+# This file is distributed under the same license as the Spoiler Alert plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Spoiler Alert 0.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/spoiler-alert\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-08-16T21:03:06+00:00\n"
+"PO-Revision-Date: 2020-07-16 18:10-0300\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: spoiler-alert\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: pt_BR\n"
+
+#. Plugin Name of the plugin
+#: src/index.js:41
+msgid "Spoiler Alert"
+msgstr "Alerta de Spoiler"
+
+#. Description of the plugin
+#: src/index.js:42
+msgid "Spoiler Alert Block - Warn your readers when there is a spoiler and blur it."
+msgstr "Spoiler Alert Block - Avise seus leitores que há um spoiler e esconda-o."
+
+#. Author of the plugin
+msgid "Luiz Mitidiero"
+msgstr "Luiz Mitidiero"
+
+#: src/edit.js:64
+msgid "Spoiler alert message"
+msgstr "Mensagem de alerta de spoiler"
+
+#: src/edit.js:65
+msgid "This message is displayed before the spoiler"
+msgstr "Essa mensagem aparece antes do spoiler"
+
+#: src/edit.js:71
+msgid "Instructions"
+msgstr "Instruções"
+
+#: src/edit.js:72
+msgid "Instructions of how to reveal the spoiler"
+msgstr "Instruções de como revelar o spoiler"
+
+#: src/index.js:54
+msgid "Spoiler alert!"
+msgstr "Alerta de spoiler!"
+
+#: src/index.js:58
+msgid "Hover or click to reveal."
+msgstr "Passee o mouse ou clique para revelar"
