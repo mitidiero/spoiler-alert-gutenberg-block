@@ -53,4 +53,4 @@ msgstr "Alerta de spoiler!"
 
 #: src/index.js:58
 msgid "Hover or click to reveal."
-msgstr "Passee o mouse ou clique para revelar"
+msgstr "Passe o mouse ou clique para revelar"
